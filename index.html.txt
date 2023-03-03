@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Find Your Style</title>
+	<style>
+		body {
+			background-color: white;
+			color: black;
+		}
+		h1, h2, h3, h4, h5, h6 {
+			color: black;
+		}
+		a {
+			color: blue;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Find Your Style</h1>
+		<nav>
+			<ul>
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Membership</a></li>
+			</ul>
+		</nav>
+	</header>
+	<main>
+		<section>
+			<h2>Our Passion and Drive</h2>
+			<p>At Find Your Style, we are passionate about helping people discover their own unique style. Our goal is to provide our customers with the latest fashion trends and personalized recommendations.</p>
+			<p>We are excited to announce the launch of our own personal app in the coming months. Stay tuned for updates!</p>
+		</section>
+		<section>
+			<h2>Membership Program</h2>
+			<p>Join our membership program for just $20 per month and get access to exclusive discounts and special trends. With our membership, you'll have access to a feature called "Your Closet", where you can upload photos of your clothes and our support team will help you pick out the perfect outfits for any occasion.</p>
+			<p>Don't miss out on this opportunity to elevate your style game. Sign up for our membership program today!</p>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; 2023 Find Your Style. All rights reserved.</p>
+	</footer>
+</body>
+</html>
